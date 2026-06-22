@@ -19,7 +19,7 @@ public class Main{
         noun1 = scanner.next();
         System.out.print("Enter an adjective (description): ");
         adjective2 = scanner.next();
-        System.out.print("Enter a verb (action):");
+        System.out.print("Enter a verb (action): ");
         verb1 = scanner.next();
         System.out.print("Enter an adjective (description): ");
         adjective3 = scanner.next();
