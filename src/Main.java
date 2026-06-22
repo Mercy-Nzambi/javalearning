@@ -19,7 +19,7 @@ public class Main {
 
         area = width * length;
 
-        System.out.println("The area is " + area);
+        System.out.println("The area is " + area + ".");
 
 
         scanner.close();
