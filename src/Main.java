@@ -13,7 +13,7 @@ public class Main{
         String verb1;
         String adjective3;
 
-        System.out.print("Enter an adjective (description): ");
+        System.out.print("Enter an adjective (description):  ");
         adjective1 = scanner.next();
         System.out.print("Enter a noun(animal or person): ");
         noun1 = scanner.next();
